@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: lazyprint
+Version: 0.1
+Summary: A simple package to use 'p()' instead of 'print()'
+Author: Ashish Kumar
+Author-email: ashish.jnu@outlook.com
+License: MIT
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: summary
