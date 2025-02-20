@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="p4print",
-    version="0.1",
+    version="0.2.1",
     packages=find_packages(),
     description="Use 'p()' instead of 'print()' in Python",
     long_description=open("README.md", encoding="utf-8").read(),  # Ensure README.md exists
