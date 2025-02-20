@@ -1,8 +1,7 @@
-[build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
-
 [project]
-name = "p4print"  # ✅ Change from lazyprint to p4print
-version = "0.2.1"  # Increment the version
-description = "A simple package to use 'p()' instead of 'print()'"
+name = "p4print"
+version = "0.2.1"
+description = "Use 'p()' instead of 'print()' in Python"
+readme = "README.md"  # This must match an existing file in your directory
+requires-python = ">=3.0"
+dependencies = []
