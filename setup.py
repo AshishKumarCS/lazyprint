@@ -1,15 +1,15 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lazyprint",  # Package name
-    version="0.1",  # Initial version
+    name="p4print",  # Updated package name
+    version="0.1",
     packages=find_packages(),
-    description="I need to test output of programs many times. And, writing print many times make me slow. So, here is a simple package to use 'p()' instead of 'print()'",
+    description="A simple package to use 'p()' instead of 'print()' for faster coding.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Ashish Kumar",
     author_email="ashish.jnu@outlook.com",
-    url="https://github.com/AshishKumarCS/lazyprint",  # GitHub repo
+    url="https://github.com/AshishKumarCS/p4print",  # Update GitHub repo (if needed)
     license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
