@@ -9,6 +9,6 @@ p("Hello, World!")
 
 ## Installation
 ```sh
-pip install lazyprint
+pip install p4print
 
 
