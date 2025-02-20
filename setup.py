@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="p4print",  # Updated package name
-    version="0.1",
+    version="0.0.1",
     packages=find_packages(),
     description="A simple package to use 'p()' instead of 'print()' for faster coding.",
     long_description=open("README.md").read(),
